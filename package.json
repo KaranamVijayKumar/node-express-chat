@@ -4,7 +4,7 @@
   "description": "Simple Express Chat app",
   "main": "app.js",
   "dependencies": {
-    "express": "latest",
+    "express": "4.20.0",
     "socket.io": "latest"
   },
   "scripts": {
